@@ -2,7 +2,6 @@
 
 - 🔭 Desenvolvedora Fron-end
 - 🌱 Estudando React.js
-- 😄 Pronouns: ela/dela
   ##
 <div>
   <a href="https://github.com/dayannesantos">
