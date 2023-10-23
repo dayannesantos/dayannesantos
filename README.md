@@ -1,6 +1,6 @@
 ### Olá, você! 👋
 
-- 🔭 Desenvolvedora Fron-end
+- 🔭 Desenvolvedora
 - 🌱 Estudando React.js
   ##
 <div>
